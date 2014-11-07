@@ -7,6 +7,6 @@ CDN edition of html5shiv / html5shim packaged for Meteor.
 
 HowTo:
 
-> Just meteor add mirageglobe:html5shiv
+> Just meteor add mirageglobe:html5shivcdn
 
   [html5shiv]: https://code.google.com/p/html5shiv/
