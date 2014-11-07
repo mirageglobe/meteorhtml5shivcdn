@@ -3,10 +3,10 @@ meteor-html5shivcdn
 
 CDN edition of html5shiv / html5shim packaged for Meteor.
 
--   Homepage of html5shiv: [html5shiv][] \<<https://code.google.com/p/html5shiv//>\>
+- Homepage of html5shiv: [html5shiv][] \<<https://github.com/aFarkas/html5shiv//>\>
 
-HowTo:
+To install:
 
-> Just meteor add mirageglobe:html5shiv
+> meteor add mirageglobe:html5shiv
 
-  [html5shiv]: https://code.google.com/p/html5shiv/
+[html5shiv]: https://code.google.com/p/html5shiv/
