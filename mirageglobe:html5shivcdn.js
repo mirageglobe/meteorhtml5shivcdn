@@ -1,3 +1,6 @@
+/*global Router, Meteor, Tracker, EJSON, Accounts, Mongo, user, console, Session, Template, UI */
+/*jslint nomen : true*/
+
 if (Meteor.isClient) {
   // Create a new div in memory to test against. Assume
   // the browser is > IE9 by default.
@@ -21,6 +24,7 @@ if (Meteor.isClient) {
     Meteor.startup(function () {
       // Load the script into the document with document.body
       // because IE doens't make it easy to select the head withoutf jQuery.
+      "use strict";
       document.body.appendChild(script);
     });
   }
