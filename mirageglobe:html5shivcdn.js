@@ -8,12 +8,12 @@ if (Meteor.isClient) {
     isIeLessThan9 = true;
 
   // Inject a conditional IE9 comment and see if it is found.
-  div.innerHTML = "<!--[if lt IE 9]><i></i><![endif]-->";
+  div.innerHTML = "<!--[if lt IE 9]><injm></injm><![endif]-->";
 
   // Since the content of the comment is ignored
   // in other browsers, this will return false in everything
   // but older IE browsers.
-  isIeLessThan9 = (div.getElementsByTagName("i").length === 1);
+  isIeLessThan9 = (div.getElementsByTagName("injm").length === 1);
   
   if (isIeLessThan9) {
     // Generate a script DOM node and customize attributes.
