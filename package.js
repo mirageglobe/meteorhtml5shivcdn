@@ -3,8 +3,8 @@
 
 Package.describe({
   name: 'mirageglobe:html5shivcdn',
-  summary: 'CDN base html5shiv for meteorjs',
-  version: '1.1.1',
+  summary: 'Latest version html5shiv loaded via CDN',
+  version: '1.2.0',
   git: 'https://github.com/mirageglobe/meteorhtml5shivcdn'
 });
 
