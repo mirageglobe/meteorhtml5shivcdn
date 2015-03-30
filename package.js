@@ -3,8 +3,8 @@
 
 Package.describe({
   name: 'mirageglobe:html5shivcdn',
-  summary: 'Latest version html5shiv loaded via fast CDN: cdnjs',
-  version: '1.2.2',
+  summary: 'Latest version html5shiv loaded via fast CDN: cdn.jsdelivr.net',
+  version: '1.2.3',
   git: 'https://github.com/mirageglobe/meteorhtml5shivcdn'
 });
 
