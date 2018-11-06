@@ -1,5 +1,7 @@
 # meteor-html5shivcdn #
 
+[![Build Status](https://travis-ci.org/mirageglobe/meteorhtml5shivcdn.svg?branch=master)](https://travis-ci.org/mirageglobe/meteorhtml5shivcdn)
+
 - author/site : Jimmy MG Lim (mirageglobe@gmail.com) / www.mirageglobe.com
 - source : https://github.com/mirageglobe/meteorhtml5shivcdn
 
